@@ -1,0 +1,19 @@
+---Create----
+create vite@latest
+
+Project name:..........
+
+- React
+- JavaScript
+
+cd sunnyside-landingpage
+- npm i
+
+---Open VS Code---
+- npm run dev
+
+----install tailwind react----
+- npm install -D tailwindcss postcss autoprefixer 
+
+-----Create Function-----
+- rfce
